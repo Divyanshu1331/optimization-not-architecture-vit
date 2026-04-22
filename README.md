@@ -68,3 +68,20 @@ All models are trained from scratch on CIFAR-10 under controlled experimental se
 - Regularization  
 - Optimization strategies
   
+---
+
+## ⚙️ Reproducibility
+
+To reproduce the experiments:
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the notebooks in the `/Notebook` directory:
+   - VGG16_on_CIFAR10.ipynb
+   - ViT_on_CIFAR10_01.ipynb
+   - ViT_on_CIFAR10_02.ipynb
+   - ViT_on_CIFAR10_03.ipynb
+   - ViT_on_CIFAR10_04.ipynb
+
+All experiments are self-contained and follow a controlled setup as described in the paper.
