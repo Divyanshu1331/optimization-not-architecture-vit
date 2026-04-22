@@ -35,3 +35,34 @@ The repository includes:
 ---
 
 ## 📁 Repository Structure
+
+- Notebook/ → All experiment notebooks
+- Figures/ → Accuracy plots and results
+- Paper/ → Research paper (PDF)
+
+
+---
+
+## 📄 Paper
+
+The full paper is available in the `/Paper` directory.
+
+---
+
+## 🔗 Future Work
+
+Ongoing work explores:
+- Robustness under distribution shifts  
+- Behavior under distorted or real-world imaging conditions  
+- Extending optimization insights to detection and video tasks  
+
+---
+
+## ⚙️ Notes
+
+All models are trained from scratch on CIFAR-10 under controlled experimental settings to isolate the effects of:
+- Data diversity  
+- Model capacity  
+- Regularization  
+- Optimization strategies
+  
