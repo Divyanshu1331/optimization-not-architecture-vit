@@ -77,7 +77,7 @@ To reproduce the experiments:
 1. Install dependencies:
    pip install -r requirements.txt
 
-2. Run the notebooks in the `/Notebook` directory:
+2. Run the notebooks in the [Notebook](Notebook) directory:
    - VGG16_on_CIFAR10.ipynb
    - ViT_on_CIFAR10_01.ipynb
    - ViT_on_CIFAR10_02.ipynb
