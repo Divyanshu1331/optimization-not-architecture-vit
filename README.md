@@ -46,6 +46,7 @@ The repository includes:
 ## 📄 Paper
 
 [Read the paper](Paper/vit-small-data-optimization.pdf)
+
 [OpenReview Version](https://openreview.net/forum?id=BnKObGDEr6)
 
 ---
