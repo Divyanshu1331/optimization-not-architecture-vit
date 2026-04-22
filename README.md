@@ -1,4 +1,4 @@
-# Optimization, Not Architecture: ViT Generalization in Small-Data Regimes
+# Optimization, Not Architecture, Governs Vision Transformer Generalization in Small-Data Regimes
 
 This repository contains a controlled empirical study investigating why Vision Transformers (ViTs) underperform in small-data settings (CIFAR-10) and what factors truly govern their generalization.
 
