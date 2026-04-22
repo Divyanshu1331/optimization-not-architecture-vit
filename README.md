@@ -45,7 +45,8 @@ The repository includes:
 
 ## 📄 Paper
 
-The full paper is available in the `/Paper` directory.
+[Read the paper (PDF)](Paper/20_Optimization_Not_Architectu.pdf)  
+[OpenReview Version](https://openreview.net/forum?id=BnKObGDEr6)
 
 ---
 
